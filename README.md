@@ -7,8 +7,10 @@ This project demonstrates face detection using OpenCV. It uses Haar Cascade Clas
 - Detect faces in real-time using webcam
 - Highlight detected faces with bounding boxes
 - Works on both images and video
+- Can Detect Multiple Faces
 
 ## Requirements
 Install the following libraries before running:
 ```bash
+
 pip install opencv-python numpy
