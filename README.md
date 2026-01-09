@@ -12,5 +12,6 @@ This project demonstrates face detection using OpenCV. It uses Haar Cascade Clas
 ## Requirements
 Install the following libraries before running:
 ```bash
-
+...
 pip install opencv-python numpy
+
